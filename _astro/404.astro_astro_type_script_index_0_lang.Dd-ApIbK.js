@@ -1,0 +1,1 @@
+import{t as e}from"./ink.Dm3knnJX.js";var t=()=>{e(),document.querySelector(`.mark`)?.classList.add(`on`)};t(),document.fonts?.ready.then(t),addEventListener(`resize`,()=>e());
