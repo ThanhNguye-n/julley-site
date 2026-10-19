@@ -1,0 +1,1 @@
+`/julley-site/`.replace(/\/?$/,`/`);var e=`http://localhost:8787`.replace(/\/+$/,``);export{e as t};
